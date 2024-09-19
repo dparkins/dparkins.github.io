@@ -37,7 +37,14 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
+/*
+img {
+display: block;
+width: 66%;
+padding:1rem;
+box-shadow: 1px 1px 1px 1px #888888;
+}
+*/
 ul.posts li {
     list-style: none;
 }
