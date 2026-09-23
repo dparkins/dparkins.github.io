@@ -8,7 +8,10 @@ Korea Astronomy and Space Science Institute (KASI), Daejeon, Republic of Korea
 
 - **2017–present — Principal Researcher**, Centre for Theoretical Astrophysics, KASI, Daejeon.
 - **2018–present — Professor**, Astronomy and Space Science, University of Science and Technology (KASI campus), Daejeon.
-- **2010–2017 — University of Queensland**, Brisbane: ARC Future Fellow (2014–2017); Lecturer (2012–2013); Postdoctoral Researcher (2010–2012). The Future Fellowship examined tests of advanced theories of gravity with cosmological data; earlier research included cosmological parameter estimation with the WiggleZ Dark Energy Survey.
+- **2010–2017 — University of Queensland**, Brisbane:
+  - ARC Future Fellow (2014–2017)
+  - Lecturer (2012–2013)
+  - Postdoctoral Researcher (2010–2012). 
 - **2004–2010 — Postdoctoral Researcher**, University of Sussex, Brighton. Tested cosmological models and designed future dark energy surveys.
 
 ## Education
